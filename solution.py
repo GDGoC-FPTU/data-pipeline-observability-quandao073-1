@@ -2,7 +2,7 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-2A202600028  (<-- Thay XXXX bang ma so cua ban)
+Student ID: 2A202600028
 Name: Đào Anh Quân
 
 Nhiem vu:
