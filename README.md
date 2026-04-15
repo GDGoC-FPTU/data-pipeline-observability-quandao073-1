@@ -1,14 +1,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23573953&assignment_repo_type=AssignmentRepo)
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** email@example.com
-**Name:** (Dien ten cua ban)
+**Student Email:** anhquan7303qqq@email.com
+**Name:** Đào Anh Quân
 
 ---
 
 ## Mo ta
 
-(Mo ta ngan gon bai lab va nhung gi ban da lam)
+Hoàn thành các hàm cho từng giai đoạn của ETL pipeline:
+1. Extract:   Đọc dữ liệu từ file JSON
+2. Validate:  Kiểm tra & loại bỏ dữ liệu không hợp lệ
+3. Transform: Chuẩn hóa category + tính giá giảm 10%
+4. Load:      Lưu kết quả ra file CSV
 
 ---
 
@@ -44,4 +48,4 @@ python solution.py
 
 ## Ket qua
 
-(Tom tat ket qua: bao nhieu records da xu ly, bao nhieu bi loai, v.v.)
+Đã xử lý 5 records, trong đó 3 records hợp lệ và loại bỏ 2 records
